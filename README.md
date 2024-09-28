@@ -1,7 +1,7 @@
 # Wh-Rat-V3 RELEASE
 
 #  Visit 
-https://whcyberspace.org/view/WH-Rat-V3
+https://t.me/whcyberspace
 
 
 [![Watch the video](https://github.com/wh-Cyberspace/Wh-Rat-V3/blob/main/img/wh-rat-v3-V1.png?raw=true)](https://whcyberspace.org/videos/wh-rat-v3-video.mp4)
